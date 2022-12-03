@@ -1067,6 +1067,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SoyBoy
       objectReference: {fileID: 0}
+    - target: {fileID: 770969592853456909, guid: 76df6284e3a5d644e93da2b3e5bcbb1a,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 770969592853456911, guid: 76df6284e3a5d644e93da2b3e5bcbb1a,
         type: 3}
       propertyPath: m_RootOrder
